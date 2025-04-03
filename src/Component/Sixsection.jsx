@@ -5,7 +5,7 @@ import { FiCheckCircle } from "react-icons/fi";
 function Sixsection() {
   return (
     <div>
-      <div className='px-[80px] flex gap-[32px] pt-[10px] pb-[80px]  items-center'>
+      <div className='px-[16px] md:px-[80px] md:flex gap-[32px] pt-[10px] pb-[80px]  items-center'>
         <div className='px-[44px] py-[40px] border-[2px] border-[#FFE492] rounded-[10px]'>
           <h1 className='text-black text-[22px] font-bold mb-3'>Free</h1>
           <h1 className='text-black text-[30px] font-bold'>$0</h1>

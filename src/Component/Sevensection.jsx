@@ -5,7 +5,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 function Sevensection() {
     return (
         <div>
-            <div className='bg-[#043873] py-[70px]'>
+            <div className='bg-[#043873] px-[16px] md:px-[80px] py-[70px]'>
                 <h1 className='text-white text-[55px] font-bold text-center '>Get More Done with whitepace</h1>
                 <p className='text-white text-[18px] my-[30px] text-center'>Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks</p>
                 <div className='flex justify-center'>
